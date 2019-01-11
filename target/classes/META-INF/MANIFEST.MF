@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MySpringBootApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vinod
+Implementation-Vendor-Id: com.myapp
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/MySpringBootBaseAppl
+Created-By: Maven Integration for Eclipse
+
